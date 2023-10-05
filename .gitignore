@@ -1,5 +1,6 @@
 node_modules
-+ build/**
-+ dist/**
-+ .next/**
+build/**
+dist/
+.next/**
+.turbo
 .DS_Store
