@@ -8,6 +8,7 @@
     "start": "node apps/server/dist/main"
   },
   "workspaces": [
-    "apps/*"
+    "apps/*",
+    "packages/*"
   ]
 }
