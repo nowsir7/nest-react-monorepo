@@ -10,5 +10,12 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@nextui-org/react": "^2.1.13",
+    "client": "^0.1.0",
+    "framer-motion": "^10.16.4",
+    "next": "^13.5.4",
+    "react-router-dom": "^6.16.0"
+  }
 }

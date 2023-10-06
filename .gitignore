@@ -4,3 +4,5 @@ dist/
 .next/**
 .turbo
 .DS_Store
+.next
+next-env.d.ts
